@@ -1,4 +1,4 @@
- package org.bluecpp;
+ package org.bluecpp.assignment1;
 
 public class HelloGoodbye {
     public static void main(String[] args) {
