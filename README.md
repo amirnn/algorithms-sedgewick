@@ -7,3 +7,5 @@ Algorithms by Sedgewick
   * Hello World - Week 1
 * Assignment 2:
   * Percolation - Week 1
+* Assignment 3:
+  * Queues and Stacks 
